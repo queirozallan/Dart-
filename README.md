@@ -9,6 +9,7 @@ Este projeto contém uma função em Dart que calcula o somatório de todos os v
 
 ### Requisitos
 - Dart SDK instalado
+- Ou apenas utilizar o link para acessar o DarTpad (https://dartpad.dev/?) uma plataforma online para vizualizar o projeto 
 
 ### Passos
 1. Clone este repositório: `git clone https://github.com/queirozallan/Dart.git`
